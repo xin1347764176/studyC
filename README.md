@@ -2,6 +2,13 @@
 1-100顺序二分法
 
 
+
+
+
+
+
+
+
 int main() {
 	int a[100] = {0};
 	int i, want, left = 0,right=99,k;
